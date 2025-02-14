@@ -4,5 +4,5 @@ Interfaz del sistema de adquisición de datos que emplea comunicación UART entr
  Trabajo de tesis: [http://jupiter.utm.mx/~tesis_dig/14519.pdf](http://jupiter.utm.mx/~tesis_dig/14519.pdf)
 
 <p align="center">
-    <img width=55% src="https://github.com/itzchav/Interfaz-para-plataforma-de-vibraciones/blob/main/interfaz.png">
+    <img width=60% src="https://github.com/itzchav/Interfaz-para-plataforma-de-vibraciones/blob/main/interfaz.png">
 </p>
